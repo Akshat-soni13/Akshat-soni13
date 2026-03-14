@@ -1,19 +1,19 @@
 <p align="center">
 
-<svg width="100%" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
 
 <!-- Space Background -->
 <rect width="100%" height="100%" fill="black"/>
 
 <!-- Stars -->
-<circle cx="40" cy="40" r="1.5" fill="white"/>
-<circle cx="120" cy="90" r="1.5" fill="white"/>
-<circle cx="220" cy="30" r="1.5" fill="white"/>
-<circle cx="340" cy="70" r="1.5" fill="white"/>
-<circle cx="450" cy="40" r="1.5" fill="white"/>
-<circle cx="600" cy="100" r="1.5" fill="white"/>
-<circle cx="720" cy="50" r="1.5" fill="white"/>
-<circle cx="850" cy="130" r="1.5" fill="white"/>
+<circle cx="50" cy="40" r="1.5" fill="white"/>
+<circle cx="140" cy="90" r="1.5" fill="white"/>
+<circle cx="260" cy="30" r="1.5" fill="white"/>
+<circle cx="380" cy="70" r="1.5" fill="white"/>
+<circle cx="500" cy="40" r="1.5" fill="white"/>
+<circle cx="640" cy="100" r="1.5" fill="white"/>
+<circle cx="750" cy="50" r="1.5" fill="white"/>
+<circle cx="850" cy="120" r="1.5" fill="white"/>
 
 <!-- Name -->
 <text x="50%" y="120" text-anchor="middle" fill="white" font-size="42" font-family="Arial">
@@ -21,15 +21,19 @@ Akshat Soni
 </text>
 
 <!-- Subtitle -->
-<text x="50%" y="150" text-anchor="middle" fill="#22D3EE" font-size="20" font-family="Arial">
-Software Developer • Full Stack Developer • AI/ML Learner
+<text x="50%" y="155" text-anchor="middle" fill="#22D3EE" font-size="20" font-family="Arial">
+Full Stack Developer • AI/ML Learner
 </text>
 
-<!-- Moving Rocket -->
-<text font-size="32">
+<!-- Orbit Path -->
+<ellipse cx="450" cy="120" rx="250" ry="90"
+fill="none" stroke="#22D3EE" stroke-dasharray="4"/>
+
+<!-- Moving Spaceship -->
+<text font-size="30">
 🚀
-<animateMotion dur="8s" repeatCount="indefinite"
-path="M60,200 C250,20 650,20 860,200"/>
+<animateMotion dur="10s" repeatCount="indefinite">
+<mpath href="#orbit"/>
 </animateMotion>
 </text>
 
@@ -45,8 +49,7 @@ path="M60,200 C250,20 650,20 860,200"/>
 🌐 Building **Full Stack Applications**  
 🤖 Learning **Artificial Intelligence & Machine Learning**  
 🧠 Interested in **Distributed Systems & Backend Architecture**  
-🚀 Currently working on **scalable backend and real world projects**  
-🎯 Goal: Become a **high-level Software Engineer**
+🚀 Currently building **scalable backend projects**
 
 ---
 
@@ -72,44 +75,17 @@ path="M60,200 C250,20 650,20 860,200"/>
 
 # 🛠 Tech Stack
 
-## 💻 Programming Languages
-
-<p>
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp"/>
-</p>
 
----
-
-## 🌐 Frontend
-
-<p>
+### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-</p>
 
----
-
-## ⚙️ Backend & Database
-
-<p>
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
 
----
-
-## 🧰 Tools
-
-<p>
+### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render"/>
-</p>
-
----
-
-# 🚀 Current Focus
-
-- Building **scalable backend systems**
-- Learning **AI/ML concepts**
-- Exploring **distributed systems**
-- Creating **real world developer projects**
 
 ---
 
@@ -145,20 +121,14 @@ path="M60,200 C250,20 650,20 860,200"/>
 
 ---
 
-# ⭐ Support
-
-If you like my work, consider giving a ⭐ to my repositories.
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Akshat-soni13&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+⭐ **If you like my work, give a star to my repositories**
 
 </p>
 
----
-
 <p align="center">
 
-💡 **"Learn continuously, build consistently, grow infinitely."**
+💡 *"Build. Learn. Repeat."*
 
 </p>
