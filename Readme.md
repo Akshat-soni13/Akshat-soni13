@@ -1,55 +1,20 @@
 <p align="center">
-
-<svg width="100%" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
-
-<!-- Space Background -->
-<rect width="100%" height="100%" fill="black"/>
-
-<!-- Stars -->
-<circle cx="50" cy="40" r="1.5" fill="white"/>
-<circle cx="140" cy="90" r="1.5" fill="white"/>
-<circle cx="260" cy="30" r="1.5" fill="white"/>
-<circle cx="380" cy="70" r="1.5" fill="white"/>
-<circle cx="500" cy="40" r="1.5" fill="white"/>
-<circle cx="640" cy="100" r="1.5" fill="white"/>
-<circle cx="750" cy="50" r="1.5" fill="white"/>
-<circle cx="850" cy="120" r="1.5" fill="white"/>
-
-<!-- Name -->
-<text x="50%" y="120" text-anchor="middle" fill="white" font-size="42" font-family="Arial">
-Akshat Soni
-</text>
-
-<!-- Subtitle -->
-<text x="50%" y="155" text-anchor="middle" fill="#22D3EE" font-size="20" font-family="Arial">
-Full Stack Developer • AI/ML Learner
-</text>
-
-<!-- Orbit Path -->
-<ellipse cx="450" cy="120" rx="250" ry="90"
-fill="none" stroke="#22D3EE" stroke-dasharray="4"/>
-
-<!-- Moving Spaceship -->
-<text font-size="30">
-🚀
-<animateMotion dur="10s" repeatCount="indefinite">
-<mpath href="#orbit"/>
-</animateMotion>
-</text>
-
-</svg>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=Akshat%20Soni&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
+
+<h3 align="center">
+Full Stack Developer • AI/ML Learner
+</h3>
 
 ---
 
 # 🌌 About Me
 
-💻 Passionate about **Software Engineering & Web Development**  
-🌐 Building **Full Stack Applications**  
-🤖 Learning **Artificial Intelligence & Machine Learning**  
-🧠 Interested in **Distributed Systems & Backend Architecture**  
-🚀 Currently building **scalable backend projects**
+- 💻 Passionate about **Software Engineering**
+- 🌐 Building **Full Stack Applications**
+- 🤖 Learning **Artificial Intelligence & Machine Learning**
+- 🧠 Interested in **Backend Architecture**
+- 🚀 Currently building **real world developer projects**
 
 ---
 
@@ -75,16 +40,16 @@ fill="none" stroke="#22D3EE" stroke-dasharray="4"/>
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp"/>
 
-### 🌐 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 
-### ⚙️ Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 
-### 🧰 Tools
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render"/>
 
 ---
@@ -122,13 +87,5 @@ fill="none" stroke="#22D3EE" stroke-dasharray="4"/>
 ---
 
 <p align="center">
-
-⭐ **If you like my work, give a star to my repositories**
-
-</p>
-
-<p align="center">
-
-💡 *"Build. Learn. Repeat."*
-
+⭐ If you like my work, consider giving a star to my repositories
 </p>
