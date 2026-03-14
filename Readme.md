@@ -1,14 +1,52 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=200&section=header&text=Akshat%20Soni&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
-<h3 align="center">
+<svg width="100%" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Space Background -->
+<rect width="100%" height="100%" fill="black"/>
+
+<!-- Stars -->
+<circle cx="40" cy="40" r="1.5" fill="white"/>
+<circle cx="120" cy="90" r="1.5" fill="white"/>
+<circle cx="220" cy="30" r="1.5" fill="white"/>
+<circle cx="340" cy="70" r="1.5" fill="white"/>
+<circle cx="450" cy="40" r="1.5" fill="white"/>
+<circle cx="600" cy="100" r="1.5" fill="white"/>
+<circle cx="720" cy="50" r="1.5" fill="white"/>
+<circle cx="850" cy="130" r="1.5" fill="white"/>
+
+<!-- Name -->
+<text x="50%" y="120" text-anchor="middle" fill="white" font-size="42" font-family="Arial">
+Akshat Soni
+</text>
+
+<!-- Subtitle -->
+<text x="50%" y="150" text-anchor="middle" fill="#22D3EE" font-size="20" font-family="Arial">
 Software Developer • Full Stack Developer • AI/ML Learner
-</h3>
+</text>
 
-<p align="center">
-Building scalable applications, learning intelligent systems and solving real world problems.
+<!-- Moving Rocket -->
+<text font-size="32">
+🚀
+<animateMotion dur="8s" repeatCount="indefinite"
+path="M60,200 C250,20 650,20 860,200"/>
+</animateMotion>
+</text>
+
+</svg>
+
 </p>
+
+---
+
+# 🌌 About Me
+
+💻 Passionate about **Software Engineering & Web Development**  
+🌐 Building **Full Stack Applications**  
+🤖 Learning **Artificial Intelligence & Machine Learning**  
+🧠 Interested in **Distributed Systems & Backend Architecture**  
+🚀 Currently working on **scalable backend and real world projects**  
+🎯 Goal: Become a **high-level Software Engineer**
 
 ---
 
@@ -32,17 +70,6 @@ Building scalable applications, learning intelligent systems and solving real wo
 
 ---
 
-# 🚀 About Me
-
-* 💻 Passionate about **Software Engineering & Web Development**
-* 🌐 Building **Full Stack Applications**
-* 🤖 Learning **Artificial Intelligence & Machine Learning**
-* 🧠 Interested in **Distributed Systems & Backend Architecture**
-* 🚀 Currently working on **scalable backend and real world projects**
-* 🎯 Goal: Become a **high-level Software Engineer**
-
----
-
 # 🛠 Tech Stack
 
 ## 💻 Programming Languages
@@ -53,7 +80,7 @@ Building scalable applications, learning intelligent systems and solving real wo
 
 ---
 
-## 🌐 Frontend Development
+## 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
@@ -69,11 +96,20 @@ Building scalable applications, learning intelligent systems and solving real wo
 
 ---
 
-## 🧩 Tools & Platforms
+## 🧰 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render"/>
 </p>
+
+---
+
+# 🚀 Current Focus
+
+- Building **scalable backend systems**
+- Learning **AI/ML concepts**
+- Exploring **distributed systems**
+- Creating **real world developer projects**
 
 ---
 
@@ -111,15 +147,18 @@ Building scalable applications, learning intelligent systems and solving real wo
 
 # ⭐ Support
 
-If you like my work, consider giving a ⭐ to my repositories and follow me on GitHub.
+If you like my work, consider giving a ⭐ to my repositories.
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Akshat-soni13&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
 </p>
 
 ---
 
 <p align="center">
-💡 "Learn continuously, build consistently, grow infinitely."
-</p>
 
+💡 **"Learn continuously, build consistently, grow infinitely."**
+
+</p>
